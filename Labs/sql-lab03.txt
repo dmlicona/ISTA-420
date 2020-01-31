@@ -1,0 +1,1177 @@
+﻿OrderID     LastName             FirstName  OrderDate
+----------- -------------------- ---------- -----------------------
+10248       Buchanan             Steven     1996-07-04 00:00:00.000
+10249       Suyama               Michael    1996-07-05 00:00:00.000
+10250       Peacock              Margaret   1996-07-08 00:00:00.000
+10251       Leverling            Janet      1996-07-08 00:00:00.000
+10252       Peacock              Margaret   1996-07-09 00:00:00.000
+10253       Leverling            Janet      1996-07-10 00:00:00.000
+10254       Buchanan             Steven     1996-07-11 00:00:00.000
+10255       Dodsworth            Anne       1996-07-12 00:00:00.000
+10256       Leverling            Janet      1996-07-15 00:00:00.000
+10257       Peacock              Margaret   1996-07-16 00:00:00.000
+10258       Davolio              Nancy      1996-07-17 00:00:00.000
+10259       Peacock              Margaret   1996-07-18 00:00:00.000
+10260       Peacock              Margaret   1996-07-19 00:00:00.000
+10261       Peacock              Margaret   1996-07-19 00:00:00.000
+10262       Callahan             Laura      1996-07-22 00:00:00.000
+10263       Dodsworth            Anne       1996-07-23 00:00:00.000
+10264       Suyama               Michael    1996-07-24 00:00:00.000
+10265       Fuller               Andrew     1996-07-25 00:00:00.000
+10266       Leverling            Janet      1996-07-26 00:00:00.000
+10267       Peacock              Margaret   1996-07-29 00:00:00.000
+10268       Callahan             Laura      1996-07-30 00:00:00.000
+10269       Buchanan             Steven     1996-07-31 00:00:00.000
+10270       Davolio              Nancy      1996-08-01 00:00:00.000
+10271       Suyama               Michael    1996-08-01 00:00:00.000
+10272       Suyama               Michael    1996-08-02 00:00:00.000
+10273       Leverling            Janet      1996-08-05 00:00:00.000
+10274       Suyama               Michael    1996-08-06 00:00:00.000
+10275       Davolio              Nancy      1996-08-07 00:00:00.000
+10276       Callahan             Laura      1996-08-08 00:00:00.000
+10277       Fuller               Andrew     1996-08-09 00:00:00.000
+10278       Callahan             Laura      1996-08-12 00:00:00.000
+10279       Callahan             Laura      1996-08-13 00:00:00.000
+10280       Fuller               Andrew     1996-08-14 00:00:00.000
+10281       Peacock              Margaret   1996-08-14 00:00:00.000
+10282       Peacock              Margaret   1996-08-15 00:00:00.000
+10283       Leverling            Janet      1996-08-16 00:00:00.000
+10284       Peacock              Margaret   1996-08-19 00:00:00.000
+10285       Davolio              Nancy      1996-08-20 00:00:00.000
+10286       Callahan             Laura      1996-08-21 00:00:00.000
+10287       Callahan             Laura      1996-08-22 00:00:00.000
+10288       Peacock              Margaret   1996-08-23 00:00:00.000
+10289       King                 Robert     1996-08-26 00:00:00.000
+10290       Callahan             Laura      1996-08-27 00:00:00.000
+10291       Suyama               Michael    1996-08-27 00:00:00.000
+10292       Davolio              Nancy      1996-08-28 00:00:00.000
+10293       Davolio              Nancy      1996-08-29 00:00:00.000
+10294       Peacock              Margaret   1996-08-30 00:00:00.000
+10295       Fuller               Andrew     1996-09-02 00:00:00.000
+10296       Suyama               Michael    1996-09-03 00:00:00.000
+10297       Buchanan             Steven     1996-09-04 00:00:00.000
+10298       Suyama               Michael    1996-09-05 00:00:00.000
+10299       Peacock              Margaret   1996-09-06 00:00:00.000
+10300       Fuller               Andrew     1996-09-09 00:00:00.000
+10301       Callahan             Laura      1996-09-09 00:00:00.000
+10302       Peacock              Margaret   1996-09-10 00:00:00.000
+10303       King                 Robert     1996-09-11 00:00:00.000
+10304       Davolio              Nancy      1996-09-12 00:00:00.000
+10305       Callahan             Laura      1996-09-13 00:00:00.000
+10306       Davolio              Nancy      1996-09-16 00:00:00.000
+10307       Fuller               Andrew     1996-09-17 00:00:00.000
+10308       King                 Robert     1996-09-18 00:00:00.000
+10309       Leverling            Janet      1996-09-19 00:00:00.000
+10310       Callahan             Laura      1996-09-20 00:00:00.000
+10311       Davolio              Nancy      1996-09-20 00:00:00.000
+10312       Fuller               Andrew     1996-09-23 00:00:00.000
+10313       Fuller               Andrew     1996-09-24 00:00:00.000
+10314       Davolio              Nancy      1996-09-25 00:00:00.000
+10315       Peacock              Margaret   1996-09-26 00:00:00.000
+10316       Davolio              Nancy      1996-09-27 00:00:00.000
+10317       Suyama               Michael    1996-09-30 00:00:00.000
+10318       Callahan             Laura      1996-10-01 00:00:00.000
+10319       King                 Robert     1996-10-02 00:00:00.000
+10320       Buchanan             Steven     1996-10-03 00:00:00.000
+10321       Leverling            Janet      1996-10-03 00:00:00.000
+10322       King                 Robert     1996-10-04 00:00:00.000
+10323       Peacock              Margaret   1996-10-07 00:00:00.000
+10324       Dodsworth            Anne       1996-10-08 00:00:00.000
+10325       Davolio              Nancy      1996-10-09 00:00:00.000
+10326       Peacock              Margaret   1996-10-10 00:00:00.000
+10327       Fuller               Andrew     1996-10-11 00:00:00.000
+10328       Peacock              Margaret   1996-10-14 00:00:00.000
+10329       Peacock              Margaret   1996-10-15 00:00:00.000
+10330       Leverling            Janet      1996-10-16 00:00:00.000
+10331       Dodsworth            Anne       1996-10-16 00:00:00.000
+10332       Leverling            Janet      1996-10-17 00:00:00.000
+10333       Buchanan             Steven     1996-10-18 00:00:00.000
+10334       Callahan             Laura      1996-10-21 00:00:00.000
+10335       King                 Robert     1996-10-22 00:00:00.000
+10336       King                 Robert     1996-10-23 00:00:00.000
+10337       Peacock              Margaret   1996-10-24 00:00:00.000
+10338       Peacock              Margaret   1996-10-25 00:00:00.000
+10339       Fuller               Andrew     1996-10-28 00:00:00.000
+10340       Davolio              Nancy      1996-10-29 00:00:00.000
+10341       King                 Robert     1996-10-29 00:00:00.000
+10342       Peacock              Margaret   1996-10-30 00:00:00.000
+10343       Peacock              Margaret   1996-10-31 00:00:00.000
+10344       Peacock              Margaret   1996-11-01 00:00:00.000
+10345       Fuller               Andrew     1996-11-04 00:00:00.000
+10346       Leverling            Janet      1996-11-05 00:00:00.000
+10347       Peacock              Margaret   1996-11-06 00:00:00.000
+10348       Peacock              Margaret   1996-11-07 00:00:00.000
+10349       King                 Robert     1996-11-08 00:00:00.000
+10350       Suyama               Michael    1996-11-11 00:00:00.000
+10351       Davolio              Nancy      1996-11-11 00:00:00.000
+10352       Leverling            Janet      1996-11-12 00:00:00.000
+10353       King                 Robert     1996-11-13 00:00:00.000
+10354       Callahan             Laura      1996-11-14 00:00:00.000
+10355       Suyama               Michael    1996-11-15 00:00:00.000
+10356       Suyama               Michael    1996-11-18 00:00:00.000
+10357       Davolio              Nancy      1996-11-19 00:00:00.000
+10358       Buchanan             Steven     1996-11-20 00:00:00.000
+10359       Buchanan             Steven     1996-11-21 00:00:00.000
+10360       Peacock              Margaret   1996-11-22 00:00:00.000
+10361       Davolio              Nancy      1996-11-22 00:00:00.000
+10362       Leverling            Janet      1996-11-25 00:00:00.000
+10363       Peacock              Margaret   1996-11-26 00:00:00.000
+10364       Davolio              Nancy      1996-11-26 00:00:00.000
+10365       Leverling            Janet      1996-11-27 00:00:00.000
+10366       Callahan             Laura      1996-11-28 00:00:00.000
+10367       King                 Robert     1996-11-28 00:00:00.000
+10368       Fuller               Andrew     1996-11-29 00:00:00.000
+10369       Callahan             Laura      1996-12-02 00:00:00.000
+10370       Suyama               Michael    1996-12-03 00:00:00.000
+10371       Davolio              Nancy      1996-12-03 00:00:00.000
+10372       Buchanan             Steven     1996-12-04 00:00:00.000
+10373       Peacock              Margaret   1996-12-05 00:00:00.000
+10374       Davolio              Nancy      1996-12-05 00:00:00.000
+10375       Leverling            Janet      1996-12-06 00:00:00.000
+10376       Davolio              Nancy      1996-12-09 00:00:00.000
+10377       Davolio              Nancy      1996-12-09 00:00:00.000
+10378       Buchanan             Steven     1996-12-10 00:00:00.000
+10379       Fuller               Andrew     1996-12-11 00:00:00.000
+10380       Callahan             Laura      1996-12-12 00:00:00.000
+10381       Leverling            Janet      1996-12-12 00:00:00.000
+10382       Peacock              Margaret   1996-12-13 00:00:00.000
+10383       Callahan             Laura      1996-12-16 00:00:00.000
+10384       Leverling            Janet      1996-12-16 00:00:00.000
+10385       Davolio              Nancy      1996-12-17 00:00:00.000
+10386       Dodsworth            Anne       1996-12-18 00:00:00.000
+10387       Davolio              Nancy      1996-12-18 00:00:00.000
+10388       Fuller               Andrew     1996-12-19 00:00:00.000
+10389       Peacock              Margaret   1996-12-20 00:00:00.000
+10390       Suyama               Michael    1996-12-23 00:00:00.000
+10391       Leverling            Janet      1996-12-23 00:00:00.000
+10392       Fuller               Andrew     1996-12-24 00:00:00.000
+10393       Davolio              Nancy      1996-12-25 00:00:00.000
+10394       Davolio              Nancy      1996-12-25 00:00:00.000
+10395       Suyama               Michael    1996-12-26 00:00:00.000
+10396       Davolio              Nancy      1996-12-27 00:00:00.000
+10397       Buchanan             Steven     1996-12-27 00:00:00.000
+10398       Fuller               Andrew     1996-12-30 00:00:00.000
+10399       Callahan             Laura      1996-12-31 00:00:00.000
+10400       Davolio              Nancy      1997-01-01 00:00:00.000
+10401       Davolio              Nancy      1997-01-01 00:00:00.000
+10402       Callahan             Laura      1997-01-02 00:00:00.000
+10403       Peacock              Margaret   1997-01-03 00:00:00.000
+10404       Fuller               Andrew     1997-01-03 00:00:00.000
+10405       Davolio              Nancy      1997-01-06 00:00:00.000
+10406       King                 Robert     1997-01-07 00:00:00.000
+10407       Fuller               Andrew     1997-01-07 00:00:00.000
+10408       Callahan             Laura      1997-01-08 00:00:00.000
+10409       Leverling            Janet      1997-01-09 00:00:00.000
+10410       Leverling            Janet      1997-01-10 00:00:00.000
+10411       Dodsworth            Anne       1997-01-10 00:00:00.000
+10412       Callahan             Laura      1997-01-13 00:00:00.000
+10413       Leverling            Janet      1997-01-14 00:00:00.000
+10414       Fuller               Andrew     1997-01-14 00:00:00.000
+10415       Leverling            Janet      1997-01-15 00:00:00.000
+10416       Callahan             Laura      1997-01-16 00:00:00.000
+10417       Peacock              Margaret   1997-01-16 00:00:00.000
+10418       Peacock              Margaret   1997-01-17 00:00:00.000
+10419       Peacock              Margaret   1997-01-20 00:00:00.000
+10420       Leverling            Janet      1997-01-21 00:00:00.000
+10421       Callahan             Laura      1997-01-21 00:00:00.000
+10422       Fuller               Andrew     1997-01-22 00:00:00.000
+10423       Suyama               Michael    1997-01-23 00:00:00.000
+10424       King                 Robert     1997-01-23 00:00:00.000
+10425       Suyama               Michael    1997-01-24 00:00:00.000
+10426       Peacock              Margaret   1997-01-27 00:00:00.000
+10427       Peacock              Margaret   1997-01-27 00:00:00.000
+10428       King                 Robert     1997-01-28 00:00:00.000
+10429       Leverling            Janet      1997-01-29 00:00:00.000
+10430       Peacock              Margaret   1997-01-30 00:00:00.000
+10431       Peacock              Margaret   1997-01-30 00:00:00.000
+10432       Leverling            Janet      1997-01-31 00:00:00.000
+10433       Leverling            Janet      1997-02-03 00:00:00.000
+10434       Leverling            Janet      1997-02-03 00:00:00.000
+10435       Callahan             Laura      1997-02-04 00:00:00.000
+10436       Leverling            Janet      1997-02-05 00:00:00.000
+10437       Callahan             Laura      1997-02-05 00:00:00.000
+10438       Leverling            Janet      1997-02-06 00:00:00.000
+10439       Suyama               Michael    1997-02-07 00:00:00.000
+10440       Peacock              Margaret   1997-02-10 00:00:00.000
+10441       Leverling            Janet      1997-02-10 00:00:00.000
+10442       Leverling            Janet      1997-02-11 00:00:00.000
+10443       Callahan             Laura      1997-02-12 00:00:00.000
+10444       Leverling            Janet      1997-02-12 00:00:00.000
+10445       Leverling            Janet      1997-02-13 00:00:00.000
+10446       Suyama               Michael    1997-02-14 00:00:00.000
+10447       Peacock              Margaret   1997-02-14 00:00:00.000
+10448       Peacock              Margaret   1997-02-17 00:00:00.000
+10449       Leverling            Janet      1997-02-18 00:00:00.000
+10450       Callahan             Laura      1997-02-19 00:00:00.000
+10451       Peacock              Margaret   1997-02-19 00:00:00.000
+10452       Callahan             Laura      1997-02-20 00:00:00.000
+10453       Davolio              Nancy      1997-02-21 00:00:00.000
+10454       Peacock              Margaret   1997-02-21 00:00:00.000
+10455       Callahan             Laura      1997-02-24 00:00:00.000
+10456       Callahan             Laura      1997-02-25 00:00:00.000
+10457       Fuller               Andrew     1997-02-25 00:00:00.000
+10458       King                 Robert     1997-02-26 00:00:00.000
+10459       Peacock              Margaret   1997-02-27 00:00:00.000
+10460       Callahan             Laura      1997-02-28 00:00:00.000
+10461       Davolio              Nancy      1997-02-28 00:00:00.000
+10462       Fuller               Andrew     1997-03-03 00:00:00.000
+10463       Buchanan             Steven     1997-03-04 00:00:00.000
+10464       Peacock              Margaret   1997-03-04 00:00:00.000
+10465       Davolio              Nancy      1997-03-05 00:00:00.000
+10466       Peacock              Margaret   1997-03-06 00:00:00.000
+10467       Callahan             Laura      1997-03-06 00:00:00.000
+10468       Leverling            Janet      1997-03-07 00:00:00.000
+10469       Davolio              Nancy      1997-03-10 00:00:00.000
+10470       Peacock              Margaret   1997-03-11 00:00:00.000
+10471       Fuller               Andrew     1997-03-11 00:00:00.000
+10472       Callahan             Laura      1997-03-12 00:00:00.000
+10473       Davolio              Nancy      1997-03-13 00:00:00.000
+10474       Buchanan             Steven     1997-03-13 00:00:00.000
+10475       Dodsworth            Anne       1997-03-14 00:00:00.000
+10476       Callahan             Laura      1997-03-17 00:00:00.000
+10477       Buchanan             Steven     1997-03-17 00:00:00.000
+10478       Fuller               Andrew     1997-03-18 00:00:00.000
+10479       Leverling            Janet      1997-03-19 00:00:00.000
+10480       Suyama               Michael    1997-03-20 00:00:00.000
+10481       Callahan             Laura      1997-03-20 00:00:00.000
+10482       Davolio              Nancy      1997-03-21 00:00:00.000
+10483       King                 Robert     1997-03-24 00:00:00.000
+10484       Leverling            Janet      1997-03-24 00:00:00.000
+10485       Peacock              Margaret   1997-03-25 00:00:00.000
+10486       Davolio              Nancy      1997-03-26 00:00:00.000
+10487       Fuller               Andrew     1997-03-26 00:00:00.000
+10488       Callahan             Laura      1997-03-27 00:00:00.000
+10489       Suyama               Michael    1997-03-28 00:00:00.000
+10490       King                 Robert     1997-03-31 00:00:00.000
+10491       Callahan             Laura      1997-03-31 00:00:00.000
+10492       Leverling            Janet      1997-04-01 00:00:00.000
+10493       Peacock              Margaret   1997-04-02 00:00:00.000
+10494       Peacock              Margaret   1997-04-02 00:00:00.000
+10495       Leverling            Janet      1997-04-03 00:00:00.000
+10496       King                 Robert     1997-04-04 00:00:00.000
+10497       King                 Robert     1997-04-04 00:00:00.000
+10498       Callahan             Laura      1997-04-07 00:00:00.000
+10499       Peacock              Margaret   1997-04-08 00:00:00.000
+10500       Suyama               Michael    1997-04-09 00:00:00.000
+10501       Dodsworth            Anne       1997-04-09 00:00:00.000
+10502       Fuller               Andrew     1997-04-10 00:00:00.000
+10503       Suyama               Michael    1997-04-11 00:00:00.000
+10504       Peacock              Margaret   1997-04-11 00:00:00.000
+10505       Leverling            Janet      1997-04-14 00:00:00.000
+10506       Dodsworth            Anne       1997-04-15 00:00:00.000
+10507       King                 Robert     1997-04-15 00:00:00.000
+10508       Davolio              Nancy      1997-04-16 00:00:00.000
+10509       Peacock              Margaret   1997-04-17 00:00:00.000
+10510       Suyama               Michael    1997-04-18 00:00:00.000
+10511       Peacock              Margaret   1997-04-18 00:00:00.000
+10512       King                 Robert     1997-04-21 00:00:00.000
+10513       King                 Robert     1997-04-22 00:00:00.000
+10514       Leverling            Janet      1997-04-22 00:00:00.000
+10515       Fuller               Andrew     1997-04-23 00:00:00.000
+10516       Fuller               Andrew     1997-04-24 00:00:00.000
+10517       Leverling            Janet      1997-04-24 00:00:00.000
+10518       Peacock              Margaret   1997-04-25 00:00:00.000
+10519       Suyama               Michael    1997-04-28 00:00:00.000
+10520       King                 Robert     1997-04-29 00:00:00.000
+10521       Callahan             Laura      1997-04-29 00:00:00.000
+10522       Peacock              Margaret   1997-04-30 00:00:00.000
+10523       King                 Robert     1997-05-01 00:00:00.000
+10524       Davolio              Nancy      1997-05-01 00:00:00.000
+10525       Davolio              Nancy      1997-05-02 00:00:00.000
+10526       Peacock              Margaret   1997-05-05 00:00:00.000
+10527       King                 Robert     1997-05-05 00:00:00.000
+10528       Suyama               Michael    1997-05-06 00:00:00.000
+10529       Buchanan             Steven     1997-05-07 00:00:00.000
+10530       Leverling            Janet      1997-05-08 00:00:00.000
+10531       King                 Robert     1997-05-08 00:00:00.000
+10532       King                 Robert     1997-05-09 00:00:00.000
+10533       Callahan             Laura      1997-05-12 00:00:00.000
+10534       Callahan             Laura      1997-05-12 00:00:00.000
+10535       Peacock              Margaret   1997-05-13 00:00:00.000
+10536       Leverling            Janet      1997-05-14 00:00:00.000
+10537       Davolio              Nancy      1997-05-14 00:00:00.000
+10538       Dodsworth            Anne       1997-05-15 00:00:00.000
+10539       Suyama               Michael    1997-05-16 00:00:00.000
+10540       Leverling            Janet      1997-05-19 00:00:00.000
+10541       Fuller               Andrew     1997-05-19 00:00:00.000
+10542       Davolio              Nancy      1997-05-20 00:00:00.000
+10543       Callahan             Laura      1997-05-21 00:00:00.000
+10544       Peacock              Margaret   1997-05-21 00:00:00.000
+10545       Callahan             Laura      1997-05-22 00:00:00.000
+10546       Davolio              Nancy      1997-05-23 00:00:00.000
+10547       Leverling            Janet      1997-05-23 00:00:00.000
+10548       Leverling            Janet      1997-05-26 00:00:00.000
+10549       Buchanan             Steven     1997-05-27 00:00:00.000
+10550       King                 Robert     1997-05-28 00:00:00.000
+10551       Peacock              Margaret   1997-05-28 00:00:00.000
+10552       Fuller               Andrew     1997-05-29 00:00:00.000
+10553       Fuller               Andrew     1997-05-30 00:00:00.000
+10554       Peacock              Margaret   1997-05-30 00:00:00.000
+10555       Suyama               Michael    1997-06-02 00:00:00.000
+10556       Fuller               Andrew     1997-06-03 00:00:00.000
+10557       Dodsworth            Anne       1997-06-03 00:00:00.000
+10558       Davolio              Nancy      1997-06-04 00:00:00.000
+10559       Suyama               Michael    1997-06-05 00:00:00.000
+10560       Callahan             Laura      1997-06-06 00:00:00.000
+10561       Fuller               Andrew     1997-06-06 00:00:00.000
+10562       Davolio              Nancy      1997-06-09 00:00:00.000
+10563       Fuller               Andrew     1997-06-10 00:00:00.000
+10564       Peacock              Margaret   1997-06-10 00:00:00.000
+10565       Callahan             Laura      1997-06-11 00:00:00.000
+10566       Dodsworth            Anne       1997-06-12 00:00:00.000
+10567       Davolio              Nancy      1997-06-12 00:00:00.000
+10568       Leverling            Janet      1997-06-13 00:00:00.000
+10569       Buchanan             Steven     1997-06-16 00:00:00.000
+10570       Leverling            Janet      1997-06-17 00:00:00.000
+10571       Callahan             Laura      1997-06-17 00:00:00.000
+10572       Leverling            Janet      1997-06-18 00:00:00.000
+10573       King                 Robert     1997-06-19 00:00:00.000
+10574       Peacock              Margaret   1997-06-19 00:00:00.000
+10575       Buchanan             Steven     1997-06-20 00:00:00.000
+10576       Leverling            Janet      1997-06-23 00:00:00.000
+10577       Dodsworth            Anne       1997-06-23 00:00:00.000
+10578       Peacock              Margaret   1997-06-24 00:00:00.000
+10579       Davolio              Nancy      1997-06-25 00:00:00.000
+10580       Peacock              Margaret   1997-06-26 00:00:00.000
+10581       Leverling            Janet      1997-06-26 00:00:00.000
+10582       Leverling            Janet      1997-06-27 00:00:00.000
+10583       Fuller               Andrew     1997-06-30 00:00:00.000
+10584       Peacock              Margaret   1997-06-30 00:00:00.000
+10585       King                 Robert     1997-07-01 00:00:00.000
+10586       Dodsworth            Anne       1997-07-02 00:00:00.000
+10587       Davolio              Nancy      1997-07-02 00:00:00.000
+10588       Fuller               Andrew     1997-07-03 00:00:00.000
+10589       Callahan             Laura      1997-07-04 00:00:00.000
+10590       Peacock              Margaret   1997-07-07 00:00:00.000
+10591       Davolio              Nancy      1997-07-07 00:00:00.000
+10592       Leverling            Janet      1997-07-08 00:00:00.000
+10593       King                 Robert     1997-07-09 00:00:00.000
+10594       Leverling            Janet      1997-07-09 00:00:00.000
+10595       Fuller               Andrew     1997-07-10 00:00:00.000
+10596       Callahan             Laura      1997-07-11 00:00:00.000
+10597       King                 Robert     1997-07-11 00:00:00.000
+10598       Davolio              Nancy      1997-07-14 00:00:00.000
+10599       Suyama               Michael    1997-07-15 00:00:00.000
+10600       Peacock              Margaret   1997-07-16 00:00:00.000
+10601       King                 Robert     1997-07-16 00:00:00.000
+10602       Callahan             Laura      1997-07-17 00:00:00.000
+10603       Callahan             Laura      1997-07-18 00:00:00.000
+10604       Davolio              Nancy      1997-07-18 00:00:00.000
+10605       Davolio              Nancy      1997-07-21 00:00:00.000
+10606       Peacock              Margaret   1997-07-22 00:00:00.000
+10607       Buchanan             Steven     1997-07-22 00:00:00.000
+10608       Peacock              Margaret   1997-07-23 00:00:00.000
+10609       King                 Robert     1997-07-24 00:00:00.000
+10610       Callahan             Laura      1997-07-25 00:00:00.000
+10611       Suyama               Michael    1997-07-25 00:00:00.000
+10612       Davolio              Nancy      1997-07-28 00:00:00.000
+10613       Peacock              Margaret   1997-07-29 00:00:00.000
+10614       Callahan             Laura      1997-07-29 00:00:00.000
+10615       Fuller               Andrew     1997-07-30 00:00:00.000
+10616       Davolio              Nancy      1997-07-31 00:00:00.000
+10617       Peacock              Margaret   1997-07-31 00:00:00.000
+10618       Davolio              Nancy      1997-08-01 00:00:00.000
+10619       Leverling            Janet      1997-08-04 00:00:00.000
+10620       Fuller               Andrew     1997-08-05 00:00:00.000
+10621       Peacock              Margaret   1997-08-05 00:00:00.000
+10622       Peacock              Margaret   1997-08-06 00:00:00.000
+10623       Callahan             Laura      1997-08-07 00:00:00.000
+10624       Peacock              Margaret   1997-08-07 00:00:00.000
+10625       Leverling            Janet      1997-08-08 00:00:00.000
+10626       Davolio              Nancy      1997-08-11 00:00:00.000
+10627       Callahan             Laura      1997-08-11 00:00:00.000
+10628       Peacock              Margaret   1997-08-12 00:00:00.000
+10629       Peacock              Margaret   1997-08-12 00:00:00.000
+10630       Davolio              Nancy      1997-08-13 00:00:00.000
+10631       Callahan             Laura      1997-08-14 00:00:00.000
+10632       Callahan             Laura      1997-08-14 00:00:00.000
+10633       King                 Robert     1997-08-15 00:00:00.000
+10634       Peacock              Margaret   1997-08-15 00:00:00.000
+10635       Callahan             Laura      1997-08-18 00:00:00.000
+10636       Peacock              Margaret   1997-08-19 00:00:00.000
+10637       Suyama               Michael    1997-08-19 00:00:00.000
+10638       Leverling            Janet      1997-08-20 00:00:00.000
+10639       King                 Robert     1997-08-20 00:00:00.000
+10640       Peacock              Margaret   1997-08-21 00:00:00.000
+10641       Peacock              Margaret   1997-08-22 00:00:00.000
+10642       King                 Robert     1997-08-22 00:00:00.000
+10643       Suyama               Michael    1997-08-25 00:00:00.000
+10644       Leverling            Janet      1997-08-25 00:00:00.000
+10645       Peacock              Margaret   1997-08-26 00:00:00.000
+10646       Dodsworth            Anne       1997-08-27 00:00:00.000
+10647       Peacock              Margaret   1997-08-27 00:00:00.000
+10648       Buchanan             Steven     1997-08-28 00:00:00.000
+10649       Buchanan             Steven     1997-08-28 00:00:00.000
+10650       Buchanan             Steven     1997-08-29 00:00:00.000
+10651       Callahan             Laura      1997-09-01 00:00:00.000
+10652       Peacock              Margaret   1997-09-01 00:00:00.000
+10653       Davolio              Nancy      1997-09-02 00:00:00.000
+10654       Buchanan             Steven     1997-09-02 00:00:00.000
+10655       Davolio              Nancy      1997-09-03 00:00:00.000
+10656       Suyama               Michael    1997-09-04 00:00:00.000
+10657       Fuller               Andrew     1997-09-04 00:00:00.000
+10658       Peacock              Margaret   1997-09-05 00:00:00.000
+10659       King                 Robert     1997-09-05 00:00:00.000
+10660       Callahan             Laura      1997-09-08 00:00:00.000
+10661       King                 Robert     1997-09-09 00:00:00.000
+10662       Leverling            Janet      1997-09-09 00:00:00.000
+10663       Fuller               Andrew     1997-09-10 00:00:00.000
+10664       Davolio              Nancy      1997-09-10 00:00:00.000
+10665       Davolio              Nancy      1997-09-11 00:00:00.000
+10666       King                 Robert     1997-09-12 00:00:00.000
+10667       King                 Robert     1997-09-12 00:00:00.000
+10668       Davolio              Nancy      1997-09-15 00:00:00.000
+10669       Fuller               Andrew     1997-09-15 00:00:00.000
+10670       Peacock              Margaret   1997-09-16 00:00:00.000
+10671       Davolio              Nancy      1997-09-17 00:00:00.000
+10672       Dodsworth            Anne       1997-09-17 00:00:00.000
+10673       Fuller               Andrew     1997-09-18 00:00:00.000
+10674       Peacock              Margaret   1997-09-18 00:00:00.000
+10675       Buchanan             Steven     1997-09-19 00:00:00.000
+10676       Fuller               Andrew     1997-09-22 00:00:00.000
+10677       Davolio              Nancy      1997-09-22 00:00:00.000
+10678       King                 Robert     1997-09-23 00:00:00.000
+10679       Callahan             Laura      1997-09-23 00:00:00.000
+10680       Davolio              Nancy      1997-09-24 00:00:00.000
+10681       Leverling            Janet      1997-09-25 00:00:00.000
+10682       Leverling            Janet      1997-09-25 00:00:00.000
+10683       Fuller               Andrew     1997-09-26 00:00:00.000
+10684       Leverling            Janet      1997-09-26 00:00:00.000
+10685       Peacock              Margaret   1997-09-29 00:00:00.000
+10686       Fuller               Andrew     1997-09-30 00:00:00.000
+10687       Dodsworth            Anne       1997-09-30 00:00:00.000
+10688       Peacock              Margaret   1997-10-01 00:00:00.000
+10689       Davolio              Nancy      1997-10-01 00:00:00.000
+10690       Davolio              Nancy      1997-10-02 00:00:00.000
+10691       Fuller               Andrew     1997-10-03 00:00:00.000
+10692       Peacock              Margaret   1997-10-03 00:00:00.000
+10693       Leverling            Janet      1997-10-06 00:00:00.000
+10694       Callahan             Laura      1997-10-06 00:00:00.000
+10695       King                 Robert     1997-10-07 00:00:00.000
+10696       Callahan             Laura      1997-10-08 00:00:00.000
+10697       Leverling            Janet      1997-10-08 00:00:00.000
+10698       Peacock              Margaret   1997-10-09 00:00:00.000
+10699       Leverling            Janet      1997-10-09 00:00:00.000
+10700       Leverling            Janet      1997-10-10 00:00:00.000
+10701       Suyama               Michael    1997-10-13 00:00:00.000
+10702       Peacock              Margaret   1997-10-13 00:00:00.000
+10703       Suyama               Michael    1997-10-14 00:00:00.000
+10704       Suyama               Michael    1997-10-14 00:00:00.000
+10705       Dodsworth            Anne       1997-10-15 00:00:00.000
+10706       Callahan             Laura      1997-10-16 00:00:00.000
+10707       Peacock              Margaret   1997-10-16 00:00:00.000
+10708       Suyama               Michael    1997-10-17 00:00:00.000
+10709       Davolio              Nancy      1997-10-17 00:00:00.000
+10710       Davolio              Nancy      1997-10-20 00:00:00.000
+10711       Buchanan             Steven     1997-10-21 00:00:00.000
+10712       Leverling            Janet      1997-10-21 00:00:00.000
+10713       Davolio              Nancy      1997-10-22 00:00:00.000
+10714       Buchanan             Steven     1997-10-22 00:00:00.000
+10715       Leverling            Janet      1997-10-23 00:00:00.000
+10716       Peacock              Margaret   1997-10-24 00:00:00.000
+10717       Davolio              Nancy      1997-10-24 00:00:00.000
+10718       Davolio              Nancy      1997-10-27 00:00:00.000
+10719       Callahan             Laura      1997-10-27 00:00:00.000
+10720       Callahan             Laura      1997-10-28 00:00:00.000
+10721       Buchanan             Steven     1997-10-29 00:00:00.000
+10722       Callahan             Laura      1997-10-29 00:00:00.000
+10723       Leverling            Janet      1997-10-30 00:00:00.000
+10724       Callahan             Laura      1997-10-30 00:00:00.000
+10725       Peacock              Margaret   1997-10-31 00:00:00.000
+10726       Peacock              Margaret   1997-11-03 00:00:00.000
+10727       Fuller               Andrew     1997-11-03 00:00:00.000
+10728       Peacock              Margaret   1997-11-04 00:00:00.000
+10729       Callahan             Laura      1997-11-04 00:00:00.000
+10730       Buchanan             Steven     1997-11-05 00:00:00.000
+10731       King                 Robert     1997-11-06 00:00:00.000
+10732       Leverling            Janet      1997-11-06 00:00:00.000
+10733       Davolio              Nancy      1997-11-07 00:00:00.000
+10734       Fuller               Andrew     1997-11-07 00:00:00.000
+10735       Suyama               Michael    1997-11-10 00:00:00.000
+10736       Dodsworth            Anne       1997-11-11 00:00:00.000
+10737       Fuller               Andrew     1997-11-11 00:00:00.000
+10738       Fuller               Andrew     1997-11-12 00:00:00.000
+10739       Leverling            Janet      1997-11-12 00:00:00.000
+10740       Peacock              Margaret   1997-11-13 00:00:00.000
+10741       Peacock              Margaret   1997-11-14 00:00:00.000
+10742       Leverling            Janet      1997-11-14 00:00:00.000
+10743       Davolio              Nancy      1997-11-17 00:00:00.000
+10744       Suyama               Michael    1997-11-17 00:00:00.000
+10745       Dodsworth            Anne       1997-11-18 00:00:00.000
+10746       Davolio              Nancy      1997-11-19 00:00:00.000
+10747       Suyama               Michael    1997-11-19 00:00:00.000
+10748       Leverling            Janet      1997-11-20 00:00:00.000
+10749       Peacock              Margaret   1997-11-20 00:00:00.000
+10750       Dodsworth            Anne       1997-11-21 00:00:00.000
+10751       Leverling            Janet      1997-11-24 00:00:00.000
+10752       Fuller               Andrew     1997-11-24 00:00:00.000
+10753       Leverling            Janet      1997-11-25 00:00:00.000
+10754       Suyama               Michael    1997-11-25 00:00:00.000
+10755       Peacock              Margaret   1997-11-26 00:00:00.000
+10756       Callahan             Laura      1997-11-27 00:00:00.000
+10757       Suyama               Michael    1997-11-27 00:00:00.000
+10758       Leverling            Janet      1997-11-28 00:00:00.000
+10759       Leverling            Janet      1997-11-28 00:00:00.000
+10760       Peacock              Margaret   1997-12-01 00:00:00.000
+10761       Buchanan             Steven     1997-12-02 00:00:00.000
+10762       Leverling            Janet      1997-12-02 00:00:00.000
+10763       Leverling            Janet      1997-12-03 00:00:00.000
+10764       Suyama               Michael    1997-12-03 00:00:00.000
+10765       Leverling            Janet      1997-12-04 00:00:00.000
+10766       Peacock              Margaret   1997-12-05 00:00:00.000
+10767       Peacock              Margaret   1997-12-05 00:00:00.000
+10768       Leverling            Janet      1997-12-08 00:00:00.000
+10769       Leverling            Janet      1997-12-08 00:00:00.000
+10770       Callahan             Laura      1997-12-09 00:00:00.000
+10771       Dodsworth            Anne       1997-12-10 00:00:00.000
+10772       Leverling            Janet      1997-12-10 00:00:00.000
+10773       Davolio              Nancy      1997-12-11 00:00:00.000
+10774       Peacock              Margaret   1997-12-11 00:00:00.000
+10775       King                 Robert     1997-12-12 00:00:00.000
+10776       Davolio              Nancy      1997-12-15 00:00:00.000
+10777       King                 Robert     1997-12-15 00:00:00.000
+10778       Leverling            Janet      1997-12-16 00:00:00.000
+10779       Leverling            Janet      1997-12-16 00:00:00.000
+10780       Fuller               Andrew     1997-12-16 00:00:00.000
+10781       Fuller               Andrew     1997-12-17 00:00:00.000
+10782       Dodsworth            Anne       1997-12-17 00:00:00.000
+10783       Peacock              Margaret   1997-12-18 00:00:00.000
+10784       Peacock              Margaret   1997-12-18 00:00:00.000
+10785       Davolio              Nancy      1997-12-18 00:00:00.000
+10786       Callahan             Laura      1997-12-19 00:00:00.000
+10787       Fuller               Andrew     1997-12-19 00:00:00.000
+10788       Davolio              Nancy      1997-12-22 00:00:00.000
+10789       Davolio              Nancy      1997-12-22 00:00:00.000
+10790       Suyama               Michael    1997-12-22 00:00:00.000
+10791       Suyama               Michael    1997-12-23 00:00:00.000
+10792       Davolio              Nancy      1997-12-23 00:00:00.000
+10793       Leverling            Janet      1997-12-24 00:00:00.000
+10794       Suyama               Michael    1997-12-24 00:00:00.000
+10795       Callahan             Laura      1997-12-24 00:00:00.000
+10796       Leverling            Janet      1997-12-25 00:00:00.000
+10797       King                 Robert     1997-12-25 00:00:00.000
+10798       Fuller               Andrew     1997-12-26 00:00:00.000
+10799       Dodsworth            Anne       1997-12-26 00:00:00.000
+10800       Davolio              Nancy      1997-12-26 00:00:00.000
+10801       Peacock              Margaret   1997-12-29 00:00:00.000
+10802       Peacock              Margaret   1997-12-29 00:00:00.000
+10803       Peacock              Margaret   1997-12-30 00:00:00.000
+10804       Suyama               Michael    1997-12-30 00:00:00.000
+10805       Fuller               Andrew     1997-12-30 00:00:00.000
+10806       Leverling            Janet      1997-12-31 00:00:00.000
+10807       Peacock              Margaret   1997-12-31 00:00:00.000
+10808       Fuller               Andrew     1998-01-01 00:00:00.000
+10809       King                 Robert     1998-01-01 00:00:00.000
+10810       Fuller               Andrew     1998-01-01 00:00:00.000
+10811       Callahan             Laura      1998-01-02 00:00:00.000
+10812       Buchanan             Steven     1998-01-02 00:00:00.000
+10813       Davolio              Nancy      1998-01-05 00:00:00.000
+10814       Leverling            Janet      1998-01-05 00:00:00.000
+10815       Fuller               Andrew     1998-01-05 00:00:00.000
+10816       Peacock              Margaret   1998-01-06 00:00:00.000
+10817       Leverling            Janet      1998-01-06 00:00:00.000
+10818       King                 Robert     1998-01-07 00:00:00.000
+10819       Fuller               Andrew     1998-01-07 00:00:00.000
+10820       Leverling            Janet      1998-01-07 00:00:00.000
+10821       Davolio              Nancy      1998-01-08 00:00:00.000
+10822       Suyama               Michael    1998-01-08 00:00:00.000
+10823       Buchanan             Steven     1998-01-09 00:00:00.000
+10824       Callahan             Laura      1998-01-09 00:00:00.000
+10825       Davolio              Nancy      1998-01-09 00:00:00.000
+10826       Suyama               Michael    1998-01-12 00:00:00.000
+10827       Davolio              Nancy      1998-01-12 00:00:00.000
+10828       Dodsworth            Anne       1998-01-13 00:00:00.000
+10829       Dodsworth            Anne       1998-01-13 00:00:00.000
+10830       Peacock              Margaret   1998-01-13 00:00:00.000
+10831       Leverling            Janet      1998-01-14 00:00:00.000
+10832       Fuller               Andrew     1998-01-14 00:00:00.000
+10833       Suyama               Michael    1998-01-15 00:00:00.000
+10834       Davolio              Nancy      1998-01-15 00:00:00.000
+10835       Davolio              Nancy      1998-01-15 00:00:00.000
+10836       King                 Robert     1998-01-16 00:00:00.000
+10837       Dodsworth            Anne       1998-01-16 00:00:00.000
+10838       Leverling            Janet      1998-01-19 00:00:00.000
+10839       Leverling            Janet      1998-01-19 00:00:00.000
+10840       Peacock              Margaret   1998-01-19 00:00:00.000
+10841       Buchanan             Steven     1998-01-20 00:00:00.000
+10842       Davolio              Nancy      1998-01-20 00:00:00.000
+10843       Peacock              Margaret   1998-01-21 00:00:00.000
+10844       Callahan             Laura      1998-01-21 00:00:00.000
+10845       Callahan             Laura      1998-01-21 00:00:00.000
+10846       Fuller               Andrew     1998-01-22 00:00:00.000
+10847       Peacock              Margaret   1998-01-22 00:00:00.000
+10848       King                 Robert     1998-01-23 00:00:00.000
+10849       Dodsworth            Anne       1998-01-23 00:00:00.000
+10850       Davolio              Nancy      1998-01-23 00:00:00.000
+10851       Buchanan             Steven     1998-01-26 00:00:00.000
+10852       Callahan             Laura      1998-01-26 00:00:00.000
+10853       Dodsworth            Anne       1998-01-27 00:00:00.000
+10854       Leverling            Janet      1998-01-27 00:00:00.000
+10855       Leverling            Janet      1998-01-27 00:00:00.000
+10856       Leverling            Janet      1998-01-28 00:00:00.000
+10857       Callahan             Laura      1998-01-28 00:00:00.000
+10858       Fuller               Andrew     1998-01-29 00:00:00.000
+10859       Davolio              Nancy      1998-01-29 00:00:00.000
+10860       Leverling            Janet      1998-01-29 00:00:00.000
+10861       Peacock              Margaret   1998-01-30 00:00:00.000
+10862       Callahan             Laura      1998-01-30 00:00:00.000
+10863       Peacock              Margaret   1998-02-02 00:00:00.000
+10864       Peacock              Margaret   1998-02-02 00:00:00.000
+10865       Fuller               Andrew     1998-02-02 00:00:00.000
+10866       Buchanan             Steven     1998-02-03 00:00:00.000
+10867       Suyama               Michael    1998-02-03 00:00:00.000
+10868       King                 Robert     1998-02-04 00:00:00.000
+10869       Buchanan             Steven     1998-02-04 00:00:00.000
+10870       Buchanan             Steven     1998-02-04 00:00:00.000
+10871       Dodsworth            Anne       1998-02-05 00:00:00.000
+10872       Buchanan             Steven     1998-02-05 00:00:00.000
+10873       Peacock              Margaret   1998-02-06 00:00:00.000
+10874       Buchanan             Steven     1998-02-06 00:00:00.000
+10875       Peacock              Margaret   1998-02-06 00:00:00.000
+10876       King                 Robert     1998-02-09 00:00:00.000
+10877       Davolio              Nancy      1998-02-09 00:00:00.000
+10878       Peacock              Margaret   1998-02-10 00:00:00.000
+10879       Leverling            Janet      1998-02-10 00:00:00.000
+10880       King                 Robert     1998-02-10 00:00:00.000
+10881       Peacock              Margaret   1998-02-11 00:00:00.000
+10882       Peacock              Margaret   1998-02-11 00:00:00.000
+10883       Callahan             Laura      1998-02-12 00:00:00.000
+10884       Peacock              Margaret   1998-02-12 00:00:00.000
+10885       Suyama               Michael    1998-02-12 00:00:00.000
+10886       Davolio              Nancy      1998-02-13 00:00:00.000
+10887       Callahan             Laura      1998-02-13 00:00:00.000
+10888       Davolio              Nancy      1998-02-16 00:00:00.000
+10889       Dodsworth            Anne       1998-02-16 00:00:00.000
+10890       King                 Robert     1998-02-16 00:00:00.000
+10891       King                 Robert     1998-02-17 00:00:00.000
+10892       Peacock              Margaret   1998-02-17 00:00:00.000
+10893       Dodsworth            Anne       1998-02-18 00:00:00.000
+10894       Davolio              Nancy      1998-02-18 00:00:00.000
+10895       Leverling            Janet      1998-02-18 00:00:00.000
+10896       King                 Robert     1998-02-19 00:00:00.000
+10897       Leverling            Janet      1998-02-19 00:00:00.000
+10898       Peacock              Margaret   1998-02-20 00:00:00.000
+10899       Buchanan             Steven     1998-02-20 00:00:00.000
+10900       Davolio              Nancy      1998-02-20 00:00:00.000
+10901       Peacock              Margaret   1998-02-23 00:00:00.000
+10902       Davolio              Nancy      1998-02-23 00:00:00.000
+10903       Leverling            Janet      1998-02-24 00:00:00.000
+10904       Leverling            Janet      1998-02-24 00:00:00.000
+10905       Dodsworth            Anne       1998-02-24 00:00:00.000
+10906       Peacock              Margaret   1998-02-25 00:00:00.000
+10907       Suyama               Michael    1998-02-25 00:00:00.000
+10908       Peacock              Margaret   1998-02-26 00:00:00.000
+10909       Davolio              Nancy      1998-02-26 00:00:00.000
+10910       Davolio              Nancy      1998-02-26 00:00:00.000
+10911       Leverling            Janet      1998-02-26 00:00:00.000
+10912       Fuller               Andrew     1998-02-26 00:00:00.000
+10913       Peacock              Margaret   1998-02-26 00:00:00.000
+10914       Suyama               Michael    1998-02-27 00:00:00.000
+10915       Fuller               Andrew     1998-02-27 00:00:00.000
+10916       Davolio              Nancy      1998-02-27 00:00:00.000
+10917       Peacock              Margaret   1998-03-02 00:00:00.000
+10918       Leverling            Janet      1998-03-02 00:00:00.000
+10919       Fuller               Andrew     1998-03-02 00:00:00.000
+10920       Peacock              Margaret   1998-03-03 00:00:00.000
+10921       Davolio              Nancy      1998-03-03 00:00:00.000
+10922       Buchanan             Steven     1998-03-03 00:00:00.000
+10923       King                 Robert     1998-03-03 00:00:00.000
+10924       Leverling            Janet      1998-03-04 00:00:00.000
+10925       Leverling            Janet      1998-03-04 00:00:00.000
+10926       Peacock              Margaret   1998-03-04 00:00:00.000
+10927       Peacock              Margaret   1998-03-05 00:00:00.000
+10928       Davolio              Nancy      1998-03-05 00:00:00.000
+10929       Suyama               Michael    1998-03-05 00:00:00.000
+10930       Peacock              Margaret   1998-03-06 00:00:00.000
+10931       Peacock              Margaret   1998-03-06 00:00:00.000
+10932       Callahan             Laura      1998-03-06 00:00:00.000
+10933       Suyama               Michael    1998-03-06 00:00:00.000
+10934       Leverling            Janet      1998-03-09 00:00:00.000
+10935       Peacock              Margaret   1998-03-09 00:00:00.000
+10936       Leverling            Janet      1998-03-09 00:00:00.000
+10937       King                 Robert     1998-03-10 00:00:00.000
+10938       Leverling            Janet      1998-03-10 00:00:00.000
+10939       Fuller               Andrew     1998-03-10 00:00:00.000
+10940       Callahan             Laura      1998-03-11 00:00:00.000
+10941       King                 Robert     1998-03-11 00:00:00.000
+10942       Dodsworth            Anne       1998-03-11 00:00:00.000
+10943       Peacock              Margaret   1998-03-11 00:00:00.000
+10944       Suyama               Michael    1998-03-12 00:00:00.000
+10945       Peacock              Margaret   1998-03-12 00:00:00.000
+10946       Davolio              Nancy      1998-03-12 00:00:00.000
+10947       Leverling            Janet      1998-03-13 00:00:00.000
+10948       Leverling            Janet      1998-03-13 00:00:00.000
+10949       Fuller               Andrew     1998-03-13 00:00:00.000
+10950       Davolio              Nancy      1998-03-16 00:00:00.000
+10951       Dodsworth            Anne       1998-03-16 00:00:00.000
+10952       Davolio              Nancy      1998-03-16 00:00:00.000
+10953       Dodsworth            Anne       1998-03-16 00:00:00.000
+10954       Buchanan             Steven     1998-03-17 00:00:00.000
+10955       Callahan             Laura      1998-03-17 00:00:00.000
+10956       Suyama               Michael    1998-03-17 00:00:00.000
+10957       Callahan             Laura      1998-03-18 00:00:00.000
+10958       King                 Robert     1998-03-18 00:00:00.000
+10959       Suyama               Michael    1998-03-18 00:00:00.000
+10960       Leverling            Janet      1998-03-19 00:00:00.000
+10961       Callahan             Laura      1998-03-19 00:00:00.000
+10962       Callahan             Laura      1998-03-19 00:00:00.000
+10963       Dodsworth            Anne       1998-03-19 00:00:00.000
+10964       Leverling            Janet      1998-03-20 00:00:00.000
+10965       Suyama               Michael    1998-03-20 00:00:00.000
+10966       Peacock              Margaret   1998-03-20 00:00:00.000
+10967       Fuller               Andrew     1998-03-23 00:00:00.000
+10968       Davolio              Nancy      1998-03-23 00:00:00.000
+10969       Davolio              Nancy      1998-03-23 00:00:00.000
+10970       Dodsworth            Anne       1998-03-24 00:00:00.000
+10971       Fuller               Andrew     1998-03-24 00:00:00.000
+10972       Peacock              Margaret   1998-03-24 00:00:00.000
+10973       Suyama               Michael    1998-03-24 00:00:00.000
+10974       Leverling            Janet      1998-03-25 00:00:00.000
+10975       Davolio              Nancy      1998-03-25 00:00:00.000
+10976       Davolio              Nancy      1998-03-25 00:00:00.000
+10977       Callahan             Laura      1998-03-26 00:00:00.000
+10978       Dodsworth            Anne       1998-03-26 00:00:00.000
+10979       Callahan             Laura      1998-03-26 00:00:00.000
+10980       Peacock              Margaret   1998-03-27 00:00:00.000
+10981       Davolio              Nancy      1998-03-27 00:00:00.000
+10982       Fuller               Andrew     1998-03-27 00:00:00.000
+10983       Fuller               Andrew     1998-03-27 00:00:00.000
+10984       Davolio              Nancy      1998-03-30 00:00:00.000
+10985       Fuller               Andrew     1998-03-30 00:00:00.000
+10986       Callahan             Laura      1998-03-30 00:00:00.000
+10987       Callahan             Laura      1998-03-31 00:00:00.000
+10988       Leverling            Janet      1998-03-31 00:00:00.000
+10989       Fuller               Andrew     1998-03-31 00:00:00.000
+10990       Fuller               Andrew     1998-04-01 00:00:00.000
+10991       Davolio              Nancy      1998-04-01 00:00:00.000
+10992       Davolio              Nancy      1998-04-01 00:00:00.000
+10993       King                 Robert     1998-04-01 00:00:00.000
+10994       Fuller               Andrew     1998-04-02 00:00:00.000
+10995       Davolio              Nancy      1998-04-02 00:00:00.000
+10996       Peacock              Margaret   1998-04-02 00:00:00.000
+10997       Callahan             Laura      1998-04-03 00:00:00.000
+10998       Callahan             Laura      1998-04-03 00:00:00.000
+10999       Suyama               Michael    1998-04-03 00:00:00.000
+11000       Fuller               Andrew     1998-04-06 00:00:00.000
+11001       Fuller               Andrew     1998-04-06 00:00:00.000
+11002       Peacock              Margaret   1998-04-06 00:00:00.000
+11003       Leverling            Janet      1998-04-06 00:00:00.000
+11004       Leverling            Janet      1998-04-07 00:00:00.000
+11005       Fuller               Andrew     1998-04-07 00:00:00.000
+11006       Leverling            Janet      1998-04-07 00:00:00.000
+11007       Callahan             Laura      1998-04-08 00:00:00.000
+11008       King                 Robert     1998-04-08 00:00:00.000
+11009       Fuller               Andrew     1998-04-08 00:00:00.000
+11010       Fuller               Andrew     1998-04-09 00:00:00.000
+11011       Leverling            Janet      1998-04-09 00:00:00.000
+11012       Davolio              Nancy      1998-04-09 00:00:00.000
+11013       Fuller               Andrew     1998-04-09 00:00:00.000
+11014       Fuller               Andrew     1998-04-10 00:00:00.000
+11015       Fuller               Andrew     1998-04-10 00:00:00.000
+11016       Dodsworth            Anne       1998-04-10 00:00:00.000
+11017       Dodsworth            Anne       1998-04-13 00:00:00.000
+11018       Peacock              Margaret   1998-04-13 00:00:00.000
+11019       Suyama               Michael    1998-04-13 00:00:00.000
+11020       Fuller               Andrew     1998-04-14 00:00:00.000
+11021       Leverling            Janet      1998-04-14 00:00:00.000
+11022       Dodsworth            Anne       1998-04-14 00:00:00.000
+11023       Davolio              Nancy      1998-04-14 00:00:00.000
+11024       Peacock              Margaret   1998-04-15 00:00:00.000
+11025       Suyama               Michael    1998-04-15 00:00:00.000
+11026       Peacock              Margaret   1998-04-15 00:00:00.000
+11027       Davolio              Nancy      1998-04-16 00:00:00.000
+11028       Fuller               Andrew     1998-04-16 00:00:00.000
+11029       Peacock              Margaret   1998-04-16 00:00:00.000
+11030       King                 Robert     1998-04-17 00:00:00.000
+11031       Suyama               Michael    1998-04-17 00:00:00.000
+11032       Fuller               Andrew     1998-04-17 00:00:00.000
+11033       King                 Robert     1998-04-17 00:00:00.000
+11034       Callahan             Laura      1998-04-20 00:00:00.000
+11035       Fuller               Andrew     1998-04-20 00:00:00.000
+11036       Callahan             Laura      1998-04-20 00:00:00.000
+11037       King                 Robert     1998-04-21 00:00:00.000
+11038       Davolio              Nancy      1998-04-21 00:00:00.000
+11039       Davolio              Nancy      1998-04-21 00:00:00.000
+11040       Peacock              Margaret   1998-04-22 00:00:00.000
+11041       Leverling            Janet      1998-04-22 00:00:00.000
+11042       Fuller               Andrew     1998-04-22 00:00:00.000
+11043       Buchanan             Steven     1998-04-22 00:00:00.000
+11044       Peacock              Margaret   1998-04-23 00:00:00.000
+11045       Suyama               Michael    1998-04-23 00:00:00.000
+11046       Callahan             Laura      1998-04-23 00:00:00.000
+11047       King                 Robert     1998-04-24 00:00:00.000
+11048       King                 Robert     1998-04-24 00:00:00.000
+11049       Leverling            Janet      1998-04-24 00:00:00.000
+11050       Callahan             Laura      1998-04-27 00:00:00.000
+11051       King                 Robert     1998-04-27 00:00:00.000
+11052       Leverling            Janet      1998-04-27 00:00:00.000
+11053       Fuller               Andrew     1998-04-27 00:00:00.000
+11054       Callahan             Laura      1998-04-28 00:00:00.000
+11055       King                 Robert     1998-04-28 00:00:00.000
+11056       Callahan             Laura      1998-04-28 00:00:00.000
+11057       Leverling            Janet      1998-04-29 00:00:00.000
+11058       Dodsworth            Anne       1998-04-29 00:00:00.000
+11059       Fuller               Andrew     1998-04-29 00:00:00.000
+11060       Fuller               Andrew     1998-04-30 00:00:00.000
+11061       Peacock              Margaret   1998-04-30 00:00:00.000
+11062       Peacock              Margaret   1998-04-30 00:00:00.000
+11063       Leverling            Janet      1998-04-30 00:00:00.000
+11064       Davolio              Nancy      1998-05-01 00:00:00.000
+11065       Callahan             Laura      1998-05-01 00:00:00.000
+11066       King                 Robert     1998-05-01 00:00:00.000
+11067       Davolio              Nancy      1998-05-04 00:00:00.000
+11068       Callahan             Laura      1998-05-04 00:00:00.000
+11069       Davolio              Nancy      1998-05-04 00:00:00.000
+11070       Fuller               Andrew     1998-05-05 00:00:00.000
+11071       Davolio              Nancy      1998-05-05 00:00:00.000
+11072       Peacock              Margaret   1998-05-05 00:00:00.000
+11073       Fuller               Andrew     1998-05-05 00:00:00.000
+11074       King                 Robert     1998-05-06 00:00:00.000
+11075       Callahan             Laura      1998-05-06 00:00:00.000
+11076       Peacock              Margaret   1998-05-06 00:00:00.000
+11077       Davolio              Nancy      1998-05-06 00:00:00.000
+
+(830 rows affected)
+
+RegionID    RegionDescription                                  TerritoryDescription                               TerritoryID
+----------- -------------------------------------------------- -------------------------------------------------- --------------------
+1           Eastern                                            Westboro                                           01581
+1           Eastern                                            Bedford                                            01730
+1           Eastern                                            Georgetow                                          01833
+1           Eastern                                            Boston                                             02116
+1           Eastern                                            Cambridge                                          02139
+1           Eastern                                            Braintree                                          02184
+1           Eastern                                            Providence                                         02903
+1           Eastern                                            Wilton                                             06897
+1           Eastern                                            Morristown                                         07960
+1           Eastern                                            Edison                                             08837
+1           Eastern                                            New York                                           10019
+1           Eastern                                            New York                                           10038
+1           Eastern                                            Mellvile                                           11747
+1           Eastern                                            Fairport                                           14450
+1           Eastern                                            Neward                                             19713
+1           Eastern                                            Rockville                                          20852
+1           Eastern                                            Greensboro                                         27403
+1           Eastern                                            Cary                                               27511
+1           Eastern                                            Louisville                                         40222
+3           Northern                                           Hollis                                             03049
+3           Northern                                           Portsmouth                                         03801
+3           Northern                                           Philadelphia                                       19428
+3           Northern                                           Beachwood                                          44122
+3           Northern                                           Findlay                                            45839
+3           Northern                                           Southfield                                         48075
+3           Northern                                           Troy                                               48084
+3           Northern                                           Bloomfield Hills                                   48304
+3           Northern                                           Racine                                             53404
+3           Northern                                           Roseville                                          55113
+3           Northern                                           Minneapolis                                        55439
+4           Southern                                           Columbia                                           29202
+4           Southern                                           Atlanta                                            30346
+4           Southern                                           Savannah                                           31406
+4           Southern                                           Orlando                                            32859
+4           Southern                                           Tampa                                              33607
+4           Southern                                           Bentonville                                        72716
+4           Southern                                           Dallas                                             75234
+4           Southern                                           Austin                                             78759
+2           Western                                            Hoffman Estates                                    60179
+2           Western                                            Chicago                                            60601
+2           Western                                            Denver                                             80202
+2           Western                                            Colorado Springs                                   80909
+2           Western                                            Phoenix                                            85014
+2           Western                                            Scottsdale                                         85251
+2           Western                                            Santa Monica                                       90405
+2           Western                                            Menlo Park                                         94025
+2           Western                                            San Francisco                                      94105
+2           Western                                            Campbell                                           95008
+2           Western                                            Santa Clara                                        95054
+2           Western                                            Santa Cruz                                         95060
+2           Western                                            Bellevue                                           98004
+2           Western                                            Redmond                                            98052
+2           Western                                            Seattle                                            98104
+
+(53 rows affected)
+
+CompanyName                              ProductName
+---------------------------------------- ----------------------------------------
+Aux joyeux ecclésiastiques               Côte de Blaye
+Aux joyeux ecclésiastiques               Chartreuse verte
+Bigfoot Breweries                        Sasquatch Ale
+Bigfoot Breweries                        Steeleye Stout
+Bigfoot Breweries                        Laughing Lumberjack Lager
+Cooperativa de Quesos 'Las Cabras'       Queso Cabrales
+Cooperativa de Quesos 'Las Cabras'       Queso Manchego La Pastora
+Escargots Nouveaux                       Escargots de Bourgogne
+Exotic Liquids                           Chai
+Exotic Liquids                           Chang
+Exotic Liquids                           Aniseed Syrup
+Forêts d'érables                         Sirop d'érable
+Forêts d'érables                         Tarte au sucre
+Formaggi Fortini s.r.l.                  Gorgonzola Telino
+Formaggi Fortini s.r.l.                  Mascarpone Fabioli
+Formaggi Fortini s.r.l.                  Mozzarella di Giovanni
+Gai pâturage                             Raclette Courdavault
+Gai pâturage                             Camembert Pierrot
+G'day, Mate                              Manjimup Dried Apples
+G'day, Mate                              Filo Mix
+G'day, Mate                              Perth Pasties
+Grandma Kelly's Homestead                Grandma's Boysenberry Spread
+Grandma Kelly's Homestead                Uncle Bob's Organic Dried Pears
+Grandma Kelly's Homestead                Northwoods Cranberry Sauce
+Heli Süßwaren GmbH & Co. KG              NuNuCa Nuß-Nougat-Creme
+Heli Süßwaren GmbH & Co. KG              Gumbär Gummibärchen
+Heli Süßwaren GmbH & Co. KG              Schoggi Schokolade
+Karkki Oy                                Maxilaku
+Karkki Oy                                Valkoinen suklaa
+Karkki Oy                                Lakkalikööri
+Leka Trading                             Singaporean Hokkien Fried Mee
+Leka Trading                             Ipoh Coffee
+Leka Trading                             Gula Malacca
+Lyngbysild                               Rogede sild
+Lyngbysild                               Spegesild
+Ma Maison                                Tourtière
+Ma Maison                                Pâté chinois
+Mayumi's                                 Konbu
+Mayumi's                                 Tofu
+Mayumi's                                 Genen Shouyu
+New England Seafood Cannery              Boston Crab Meat
+New England Seafood Cannery              Jack's New England Clam Chowder
+New Orleans Cajun Delights               Chef Anton's Cajun Seasoning
+New Orleans Cajun Delights               Chef Anton's Gumbo Mix
+New Orleans Cajun Delights               Louisiana Fiery Hot Pepper Sauce
+New Orleans Cajun Delights               Louisiana Hot Spiced Okra
+Nord-Ost-Fisch Handelsgesellschaft mbH   Nord-Ost Matjeshering
+Norske Meierier                          Geitost
+Norske Meierier                          Gudbrandsdalsost
+Norske Meierier                          Flotemysost
+Pasta Buttini s.r.l.                     Gnocchi di nonna Alice
+Pasta Buttini s.r.l.                     Ravioli Angelo
+Pavlova, Ltd.                            Pavlova
+Pavlova, Ltd.                            Alice Mutton
+Pavlova, Ltd.                            Carnarvon Tigers
+Pavlova, Ltd.                            Vegie-spread
+Pavlova, Ltd.                            Outback Lager
+PB Knäckebröd AB                         Gustaf's Knäckebröd
+PB Knäckebröd AB                         Tunnbröd
+Plutzer Lebensmittelgroßmärkte AG        Rössle Sauerkraut
+Plutzer Lebensmittelgroßmärkte AG        Thüringer Rostbratwurst
+Plutzer Lebensmittelgroßmärkte AG        Wimmers gute Semmelknödel
+Plutzer Lebensmittelgroßmärkte AG        Rhönbräu Klosterbier
+Plutzer Lebensmittelgroßmärkte AG        Original Frankfurter grüne Soße
+Refrescos Americanas LTDA                Guaraná Fantástica
+Specialty Biscuits, Ltd.                 Teatime Chocolate Biscuits
+Specialty Biscuits, Ltd.                 Sir Rodney's Marmalade
+Specialty Biscuits, Ltd.                 Sir Rodney's Scones
+Specialty Biscuits, Ltd.                 Scottish Longbreads
+Svensk Sjöföda AB                        Inlagd Sill
+Svensk Sjöföda AB                        Gravad lax
+Svensk Sjöföda AB                        Röd Kaviar
+Tokyo Traders                            Mishi Kobe Niku
+Tokyo Traders                            Ikura
+Tokyo Traders                            Longlife Tofu
+Zaanse Snoepfabriek                      Zaanse koeken
+Zaanse Snoepfabriek                      Chocolade
+
+(77 rows affected)
+
+OrderDate               ProductID   qty         UnitPrice
+----------------------- ----------- ----------- ---------------------
+1998-05-05 00:00:00.000 1           40          18.00
+1998-05-05 00:00:00.000 2           28          19.00
+1998-05-05 00:00:00.000 7           15          30.00
+1998-05-05 00:00:00.000 11          10          21.00
+1998-05-05 00:00:00.000 13          10          6.00
+1998-05-05 00:00:00.000 16          30          17.45
+1998-05-05 00:00:00.000 24          20          4.50
+1998-05-05 00:00:00.000 31          20          12.50
+1998-05-05 00:00:00.000 41          40          9.65
+1998-05-05 00:00:00.000 50          22          16.25
+1998-05-05 00:00:00.000 64          130         33.25
+
+(11 rows affected)
+
+ProductName                              qty         UnitPrice
+---------------------------------------- ----------- ---------------------
+Guaraná Fantástica                       20          4.50
+Konbu                                    10          6.00
+Jack's New England Clam Chowder          40          9.65
+Gorgonzola Telino                        20          12.50
+Valkoinen suklaa                         22          16.25
+Pavlova                                  30          17.45
+Chai                                     40          18.00
+Chang                                    28          19.00
+Queso Cabrales                           10          21.00
+Uncle Bob's Organic Dried Pears          15          30.00
+Wimmers gute Semmelknödel                130         33.25
+
+(11 rows affected)
+
+OrderDate               OrderID     custName                                 ShipperName
+----------------------- ----------- ---------------------------------------- ----------------------------------------
+1998-05-01 00:00:00.000 11064       Save-a-lot Markets                       Speedy Express
+1998-05-01 00:00:00.000 11065       LILA-Supermercado                        Speedy Express
+1998-05-01 00:00:00.000 11066       White Clover Markets                     United Package
+
+(3 rows affected)
+
+OrderID     ShipCountry     CustName                                 EmpLast              EmpFirst
+----------- --------------- ---------------------------------------- -------------------- ----------
+10248       France          Vins et alcools Chevalier                Buchanan             Steven
+10251       France          Victuailles en stock                     Leverling            Janet
+10265       France          Blondesddsl père et fils                 Fuller               Andrew
+10274       France          Vins et alcools Chevalier                Suyama               Michael
+10295       France          Vins et alcools Chevalier                Fuller               Andrew
+10297       France          Blondesddsl père et fils                 Buchanan             Steven
+10311       France          Du monde entier                          Davolio              Nancy
+10331       France          Bon app'                                 Dodsworth            Anne
+10334       France          Victuailles en stock                     Callahan             Laura
+10340       France          Bon app'                                 Davolio              Nancy
+10350       France          La maison d'Asie                         Suyama               Michael
+10358       France          La maison d'Asie                         Buchanan             Steven
+10360       France          Blondesddsl père et fils                 Peacock              Margaret
+10362       France          Bon app'                                 Leverling            Janet
+10371       France          La maison d'Asie                         Davolio              Nancy
+10408       France          Folies gourmandes                        Callahan             Laura
+10413       France          La maison d'Asie                         Leverling            Janet
+10425       France          La maison d'Asie                         Suyama               Michael
+10436       France          Blondesddsl père et fils                 Leverling            Janet
+10449       France          Blondesddsl père et fils                 Leverling            Janet
+10450       France          Victuailles en stock                     Callahan             Laura
+10454       France          La maison d'Asie                         Peacock              Margaret
+10459       France          Victuailles en stock                     Peacock              Margaret
+10470       France          Bon app'                                 Peacock              Margaret
+10478       France          Victuailles en stock                     Fuller               Andrew
+10480       France          Folies gourmandes                        Suyama               Michael
+10493       France          La maison d'Asie                         Peacock              Margaret
+10500       France          La maison d'Asie                         Suyama               Michael
+10511       France          Bon app'                                 Peacock              Margaret
+10525       France          Bon app'                                 Davolio              Nancy
+10546       France          Victuailles en stock                     Davolio              Nancy
+10559       France          Blondesddsl père et fils                 Suyama               Michael
+10566       France          Blondesddsl père et fils                 Dodsworth            Anne
+10584       France          Blondesddsl père et fils                 Peacock              Margaret
+10609       France          Du monde entier                          King                 Robert
+10610       France          La maison d'Asie                         Callahan             Laura
+10628       France          Blondesddsl père et fils                 Peacock              Margaret
+10631       France          La maison d'Asie                         Callahan             Laura
+10634       France          Folies gourmandes                        Peacock              Margaret
+10663       France          Bon app'                                 Fuller               Andrew
+10671       France          France restauration                      Davolio              Nancy
+10679       France          Blondesddsl père et fils                 Callahan             Laura
+10683       France          Du monde entier                          Fuller               Andrew
+10715       France          Bon app'                                 Leverling            Janet
+10730       France          Bon app'                                 Buchanan             Steven
+10732       France          Bon app'                                 Leverling            Janet
+10737       France          Vins et alcools Chevalier                Fuller               Andrew
+10738       France          Spécialités du monde                     Fuller               Andrew
+10739       France          Vins et alcools Chevalier                Leverling            Janet
+10755       France          Bon app'                                 Peacock              Margaret
+10763       France          Folies gourmandes                        Leverling            Janet
+10787       France          La maison d'Asie                         Fuller               Andrew
+10789       France          Folies gourmandes                        Davolio              Nancy
+10806       France          Victuailles en stock                     Leverling            Janet
+10814       France          Victuailles en stock                     Leverling            Janet
+10826       France          Blondesddsl père et fils                 Suyama               Michael
+10827       France          Bon app'                                 Davolio              Nancy
+10832       France          La maison d'Asie                         Fuller               Andrew
+10843       France          Victuailles en stock                     Peacock              Margaret
+10850       France          Victuailles en stock                     Davolio              Nancy
+10858       France          La corne d'abondance                     Fuller               Andrew
+10860       France          France restauration                      Leverling            Janet
+10871       France          Bon app'                                 Dodsworth            Anne
+10876       France          Bon app'                                 King                 Robert
+10890       France          Du monde entier                          King                 Robert
+10907       France          Spécialités du monde                     Suyama               Michael
+10923       France          La maison d'Asie                         King                 Robert
+10927       France          La corne d'abondance                     Peacock              Margaret
+10932       France          Bon app'                                 Callahan             Laura
+10940       France          Bon app'                                 Callahan             Laura
+10964       France          Spécialités du monde                     Leverling            Janet
+10971       France          France restauration                      Fuller               Andrew
+10972       France          La corne d'abondance                     Peacock              Margaret
+10973       France          La corne d'abondance                     Suyama               Michael
+11043       France          Spécialités du monde                     Buchanan             Steven
+11051       France          La maison d'Asie                         King                 Robert
+11076       France          Bon app'                                 Peacock              Margaret
+
+(77 rows affected)
+
+ProductID   ShipCountry     ProductName
+----------- --------------- ----------------------------------------
+1           Germany         Chai
+2           Germany         Chang
+3           Germany         Aniseed Syrup
+4           Germany         Chef Anton's Cajun Seasoning
+6           Germany         Grandma's Boysenberry Spread
+7           Germany         Uncle Bob's Organic Dried Pears
+8           Germany         Northwoods Cranberry Sauce
+9           Germany         Mishi Kobe Niku
+10          Germany         Ikura
+11          Germany         Queso Cabrales
+12          Germany         Queso Manchego La Pastora
+13          Germany         Konbu
+14          Germany         Tofu
+15          Germany         Genen Shouyu
+16          Germany         Pavlova
+17          Germany         Alice Mutton
+18          Germany         Carnarvon Tigers
+19          Germany         Teatime Chocolate Biscuits
+20          Germany         Sir Rodney's Marmalade
+21          Germany         Sir Rodney's Scones
+22          Germany         Gustaf's Knäckebröd
+23          Germany         Tunnbröd
+24          Germany         Guaraná Fantástica
+25          Germany         NuNuCa Nuß-Nougat-Creme
+26          Germany         Gumbär Gummibärchen
+27          Germany         Schoggi Schokolade
+28          Germany         Rössle Sauerkraut
+29          Germany         Thüringer Rostbratwurst
+30          Germany         Nord-Ost Matjeshering
+31          Germany         Gorgonzola Telino
+32          Germany         Mascarpone Fabioli
+33          Germany         Geitost
+34          Germany         Sasquatch Ale
+35          Germany         Steeleye Stout
+36          Germany         Inlagd Sill
+37          Germany         Gravad lax
+38          Germany         Côte de Blaye
+39          Germany         Chartreuse verte
+40          Germany         Boston Crab Meat
+41          Germany         Jack's New England Clam Chowder
+42          Germany         Singaporean Hokkien Fried Mee
+43          Germany         Ipoh Coffee
+44          Germany         Gula Malacca
+45          Germany         Rogede sild
+46          Germany         Spegesild
+47          Germany         Zaanse koeken
+49          Germany         Maxilaku
+51          Germany         Manjimup Dried Apples
+52          Germany         Filo Mix
+53          Germany         Perth Pasties
+54          Germany         Tourtière
+55          Germany         Pâté chinois
+56          Germany         Gnocchi di nonna Alice
+57          Germany         Ravioli Angelo
+58          Germany         Escargots de Bourgogne
+59          Germany         Raclette Courdavault
+60          Germany         Camembert Pierrot
+61          Germany         Sirop d'érable
+62          Germany         Tarte au sucre
+63          Germany         Vegie-spread
+64          Germany         Wimmers gute Semmelknödel
+65          Germany         Louisiana Fiery Hot Pepper Sauce
+67          Germany         Laughing Lumberjack Lager
+68          Germany         Scottish Longbreads
+69          Germany         Gudbrandsdalsost
+70          Germany         Outback Lager
+71          Germany         Flotemysost
+72          Germany         Mozzarella di Giovanni
+73          Germany         Röd Kaviar
+74          Germany         Longlife Tofu
+75          Germany         Rhönbräu Klosterbier
+76          Germany         Lakkalikööri
+77          Germany         Original Frankfurter grüne Soße
+
+(73 rows affected)
+
+
+Completion time: 2020-01-29T00:24:19.0381265-05:00

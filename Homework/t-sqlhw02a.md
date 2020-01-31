@@ -13,7 +13,7 @@
 * SELECT
 * ORDER BY
 2. *What does the __from__ clause do?*
-*It specifies the names of the tables you want to query and table operators that operate on those tables.
+* It specifies the names of the tables you want to query and table operators that operate on those tables.
 
 3. *What does the __where__ clause do?*
 * It is a rows filter. It specifies predicate or logical expression to filter the rows returned by the FROM phase.

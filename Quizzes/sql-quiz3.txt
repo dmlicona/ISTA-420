@@ -1,0 +1,79 @@
+﻿RegionDescription                                  LastName             FirstName  CompanyName                              ProductName
+-------------------------------------------------- -------------------- ---------- ---------------------------------------- ----------------------------------------
+Eastern                                            Buchanan             Steven     Heli Süßwaren GmbH & Co. KG              NuNuCa Nuß-Nougat-Creme
+Eastern                                            Buchanan             Steven     Nord-Ost-Fisch Handelsgesellschaft mbH   Nord-Ost Matjeshering
+Eastern                                            Buchanan             Steven     Plutzer Lebensmittelgroßmärkte AG        Original Frankfurter grüne Soße
+Eastern                                            Buchanan             Steven     Plutzer Lebensmittelgroßmärkte AG        Rhönbräu Klosterbier
+Eastern                                            Buchanan             Steven     Plutzer Lebensmittelgroßmärkte AG        Rössle Sauerkraut
+Eastern                                            Buchanan             Steven     Plutzer Lebensmittelgroßmärkte AG        Wimmers gute Semmelknödel
+Eastern                                            Davolio              Nancy      Heli Süßwaren GmbH & Co. KG              Gumbär Gummibärchen
+Eastern                                            Davolio              Nancy      Heli Süßwaren GmbH & Co. KG              NuNuCa Nuß-Nougat-Creme
+Eastern                                            Davolio              Nancy      Heli Süßwaren GmbH & Co. KG              Schoggi Schokolade
+Eastern                                            Davolio              Nancy      Nord-Ost-Fisch Handelsgesellschaft mbH   Nord-Ost Matjeshering
+Eastern                                            Davolio              Nancy      Plutzer Lebensmittelgroßmärkte AG        Original Frankfurter grüne Soße
+Eastern                                            Davolio              Nancy      Plutzer Lebensmittelgroßmärkte AG        Rhönbräu Klosterbier
+Eastern                                            Davolio              Nancy      Plutzer Lebensmittelgroßmärkte AG        Rössle Sauerkraut
+Eastern                                            Davolio              Nancy      Plutzer Lebensmittelgroßmärkte AG        Thüringer Rostbratwurst
+Eastern                                            Davolio              Nancy      Plutzer Lebensmittelgroßmärkte AG        Wimmers gute Semmelknödel
+Eastern                                            Fuller               Andrew     Heli Süßwaren GmbH & Co. KG              Gumbär Gummibärchen
+Eastern                                            Fuller               Andrew     Heli Süßwaren GmbH & Co. KG              NuNuCa Nuß-Nougat-Creme
+Eastern                                            Fuller               Andrew     Heli Süßwaren GmbH & Co. KG              Schoggi Schokolade
+Eastern                                            Fuller               Andrew     Nord-Ost-Fisch Handelsgesellschaft mbH   Nord-Ost Matjeshering
+Eastern                                            Fuller               Andrew     Plutzer Lebensmittelgroßmärkte AG        Original Frankfurter grüne Soße
+Eastern                                            Fuller               Andrew     Plutzer Lebensmittelgroßmärkte AG        Rhönbräu Klosterbier
+Eastern                                            Fuller               Andrew     Plutzer Lebensmittelgroßmärkte AG        Rössle Sauerkraut
+Eastern                                            Fuller               Andrew     Plutzer Lebensmittelgroßmärkte AG        Thüringer Rostbratwurst
+Eastern                                            Fuller               Andrew     Plutzer Lebensmittelgroßmärkte AG        Wimmers gute Semmelknödel
+Eastern                                            Peacock              Margaret   Heli Süßwaren GmbH & Co. KG              Gumbär Gummibärchen
+Eastern                                            Peacock              Margaret   Heli Süßwaren GmbH & Co. KG              NuNuCa Nuß-Nougat-Creme
+Eastern                                            Peacock              Margaret   Heli Süßwaren GmbH & Co. KG              Schoggi Schokolade
+Eastern                                            Peacock              Margaret   Nord-Ost-Fisch Handelsgesellschaft mbH   Nord-Ost Matjeshering
+Eastern                                            Peacock              Margaret   Plutzer Lebensmittelgroßmärkte AG        Original Frankfurter grüne Soße
+Eastern                                            Peacock              Margaret   Plutzer Lebensmittelgroßmärkte AG        Rhönbräu Klosterbier
+Eastern                                            Peacock              Margaret   Plutzer Lebensmittelgroßmärkte AG        Rössle Sauerkraut
+Eastern                                            Peacock              Margaret   Plutzer Lebensmittelgroßmärkte AG        Thüringer Rostbratwurst
+Eastern                                            Peacock              Margaret   Plutzer Lebensmittelgroßmärkte AG        Wimmers gute Semmelknödel
+Northern                                           Callahan             Laura      Heli Süßwaren GmbH & Co. KG              Gumbär Gummibärchen
+Northern                                           Callahan             Laura      Heli Süßwaren GmbH & Co. KG              NuNuCa Nuß-Nougat-Creme
+Northern                                           Callahan             Laura      Heli Süßwaren GmbH & Co. KG              Schoggi Schokolade
+Northern                                           Callahan             Laura      Nord-Ost-Fisch Handelsgesellschaft mbH   Nord-Ost Matjeshering
+Northern                                           Callahan             Laura      Plutzer Lebensmittelgroßmärkte AG        Original Frankfurter grüne Soße
+Northern                                           Callahan             Laura      Plutzer Lebensmittelgroßmärkte AG        Rhönbräu Klosterbier
+Northern                                           Callahan             Laura      Plutzer Lebensmittelgroßmärkte AG        Rössle Sauerkraut
+Northern                                           Callahan             Laura      Plutzer Lebensmittelgroßmärkte AG        Thüringer Rostbratwurst
+Northern                                           Callahan             Laura      Plutzer Lebensmittelgroßmärkte AG        Wimmers gute Semmelknödel
+Northern                                           Dodsworth            Anne       Heli Süßwaren GmbH & Co. KG              Gumbär Gummibärchen
+Northern                                           Dodsworth            Anne       Heli Süßwaren GmbH & Co. KG              NuNuCa Nuß-Nougat-Creme
+Northern                                           Dodsworth            Anne       Nord-Ost-Fisch Handelsgesellschaft mbH   Nord-Ost Matjeshering
+Northern                                           Dodsworth            Anne       Plutzer Lebensmittelgroßmärkte AG        Original Frankfurter grüne Soße
+Northern                                           Dodsworth            Anne       Plutzer Lebensmittelgroßmärkte AG        Rhönbräu Klosterbier
+Northern                                           Dodsworth            Anne       Plutzer Lebensmittelgroßmärkte AG        Thüringer Rostbratwurst
+Northern                                           Dodsworth            Anne       Plutzer Lebensmittelgroßmärkte AG        Wimmers gute Semmelknödel
+Southern                                           Leverling            Janet      Heli Süßwaren GmbH & Co. KG              Gumbär Gummibärchen
+Southern                                           Leverling            Janet      Heli Süßwaren GmbH & Co. KG              NuNuCa Nuß-Nougat-Creme
+Southern                                           Leverling            Janet      Heli Süßwaren GmbH & Co. KG              Schoggi Schokolade
+Southern                                           Leverling            Janet      Nord-Ost-Fisch Handelsgesellschaft mbH   Nord-Ost Matjeshering
+Southern                                           Leverling            Janet      Plutzer Lebensmittelgroßmärkte AG        Original Frankfurter grüne Soße
+Southern                                           Leverling            Janet      Plutzer Lebensmittelgroßmärkte AG        Rhönbräu Klosterbier
+Southern                                           Leverling            Janet      Plutzer Lebensmittelgroßmärkte AG        Rössle Sauerkraut
+Southern                                           Leverling            Janet      Plutzer Lebensmittelgroßmärkte AG        Thüringer Rostbratwurst
+Southern                                           Leverling            Janet      Plutzer Lebensmittelgroßmärkte AG        Wimmers gute Semmelknödel
+Western                                            King                 Robert     Heli Süßwaren GmbH & Co. KG              Gumbär Gummibärchen
+Western                                            King                 Robert     Heli Süßwaren GmbH & Co. KG              NuNuCa Nuß-Nougat-Creme
+Western                                            King                 Robert     Nord-Ost-Fisch Handelsgesellschaft mbH   Nord-Ost Matjeshering
+Western                                            King                 Robert     Plutzer Lebensmittelgroßmärkte AG        Original Frankfurter grüne Soße
+Western                                            King                 Robert     Plutzer Lebensmittelgroßmärkte AG        Rhönbräu Klosterbier
+Western                                            King                 Robert     Plutzer Lebensmittelgroßmärkte AG        Rössle Sauerkraut
+Western                                            King                 Robert     Plutzer Lebensmittelgroßmärkte AG        Thüringer Rostbratwurst
+Western                                            King                 Robert     Plutzer Lebensmittelgroßmärkte AG        Wimmers gute Semmelknödel
+Western                                            Suyama               Michael    Heli Süßwaren GmbH & Co. KG              Gumbär Gummibärchen
+Western                                            Suyama               Michael    Plutzer Lebensmittelgroßmärkte AG        Original Frankfurter grüne Soße
+Western                                            Suyama               Michael    Plutzer Lebensmittelgroßmärkte AG        Rhönbräu Klosterbier
+Western                                            Suyama               Michael    Plutzer Lebensmittelgroßmärkte AG        Rössle Sauerkraut
+Western                                            Suyama               Michael    Plutzer Lebensmittelgroßmärkte AG        Thüringer Rostbratwurst
+Western                                            Suyama               Michael    Plutzer Lebensmittelgroßmärkte AG        Wimmers gute Semmelknödel
+
+(72 rows affected)
+
+
+Completion time: 2020-01-29T18:31:56.6754080-05:00
