@@ -1,0 +1,52 @@
+﻿-- Name: Denis Licona
+-- File: tsql-quiz04.sql
+-- Date: February 10, 2020
+
+-- I need a report giving the customer ID, customer name, and customer contact of all customers who did
+-- not make an order in 2014, but made orders in 2015 and 2016. You will need to use a subquery in the
+-- WHERE clause that uses a set operator. You do not need to use a JOIN.
+
+select custid, companyname, contactname
+from sales.customers
+where custid IN
+((select custid
+from sales.Orders
+where orderdate like '2015-%-%')
+UNION
+(select custid
+from sales.Orders
+where orderdate like '2016-%-%')
+EXCEPT
+(select custid
+from sales.Orders
+where orderdate like '2014-%-%'))
+
+custid      companyname                              contactname
+----------- ---------------------------------------- ------------------------------
+1           Customer NRZBB                           Allen, Michael
+6           Customer XHXJV                           Poland, Carole
+12          Customer PSNMQ                           Ray, Mike
+16          Customer GYBBY                           Birkby, Dana
+23          Customer WVFAF                           Liu, Jenny
+26          Customer USDBG                           Koch, Paul
+27          Customer WMFEA                           Schmöllerl, Martin
+31          Customer YJCBX                           Orint, Neil
+32          Customer YSIQX                           Krishnan, Venky
+40          Customer EFFTC                           Owens, Ron
+42          Customer IAIJK                           Zaki, Amr
+43          Customer UISOJ                           Wu, Qiong
+45          Customer QXPPT                           Wright, David
+47          Customer PSQUZ                           Lupu, Cornel
+50          Customer JYPSC                           Goldin, Maxim
+53          Customer GCJSG                           Mallit, Ken
+54          Customer TDKEG                           Nash, Mike
+64          Customer LWGMD                           Gaffney, Lawrie
+74          Customer YSHXL                           MacDonald, Scott
+78          Customer NLTYP                           Ma, Andrew
+82          Customer EYHKM                           Veninga, Tjeerd
+90          Customer XBBVR                           Larsson, Katarina
+
+(22 rows affected)
+
+
+Completion time: 2020-02-10T11:24:46.4654384-05:00
